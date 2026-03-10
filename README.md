@@ -6,6 +6,9 @@ Developed a Retail Sales Analysis project using SQL Server to analyze transactio
 Using SQL queries, I analyzed sales performance across product categories, customer demographics, and time periods. Key analyses included identifying top customers based on total spending, monthly sales trends, category-wise revenue, gender-based purchasing behavior, and high-value transactions. I also used window functions and CTEs to determine the best-performing sales month each year and created time-based insights by categorizing orders into morning, afternoon, and evening shifts to evaluate customer activity patterns. 
 The project demonstrates strong skills in SQL data manipulation, aggregation, joins, CTEs, window functions, and business-driven data analysis, helping translate raw retail data into actionable insights.
 
+<p align="center">
+  <img src="images/retail.jpg" width="700"/>
+</p>
 # Project Objective
 
 1. Analyze retail transaction data to understand overall sales performance and customer purchasing patterns.

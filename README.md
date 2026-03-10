@@ -7,8 +7,9 @@ Using SQL queries, I analyzed sales performance across product categories, custo
 The project demonstrates strong skills in SQL data manipulation, aggregation, joins, CTEs, window functions, and business-driven data analysis, helping translate raw retail data into actionable insights.
 
 <p align="center">
-  <img src="images/retail.jpg" width="700"/>
+  <img src="retail.jpg" width="700"/>
 </p>
+
 # Project Objective
 
 1. Analyze retail transaction data to understand overall sales performance and customer purchasing patterns.

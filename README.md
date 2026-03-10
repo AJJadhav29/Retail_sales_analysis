@@ -98,5 +98,5 @@ SELECT COUNT(DISTINCT customer_id) as total_sale FROM Retail_Sales_Analysis;
 
 SELECT DISTINCT category
 FROM Retail_Sales_Analysis;
-```sql
+```
 
